@@ -1,0 +1,27 @@
+# Build output
+build/
+out/
+cmake-build-*/
+
+# IDE
+.vs/
+*.user
+*.suo
+*.sln
+*.vcxproj*
+
+# IntelliSense cache
+.vscode/ipch/
+.vscode/browse.vc.db*
+.vscode/*.log
+
+# Output files
+*.ppm
+*.png
+*.jpg
+*.bmp
+
+# OS
+.DS_Store
+Thumbs.db
+
