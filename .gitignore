@@ -3,17 +3,19 @@ build/
 out/
 cmake-build-*/
 
-# IDE
+# IDE & Editor
 .vs/
+.vscode/
+.idea/
 *.user
 *.suo
 *.sln
 *.vcxproj*
 
-# IntelliSense cache
-.vscode/ipch/
-.vscode/browse.vc.db*
-.vscode/*.log
+# Cache
+.cache/
+.clangd/
+*.idx
 
 # Output files
 *.ppm

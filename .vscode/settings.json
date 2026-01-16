@@ -1,8 +1,0 @@
-{
-  "cmake.configureOnOpen": true,
-  "C_Cpp.intelliSenseEngine": "default",
-  "C_Cpp.errorSquiggles": "enabled",
-  "files.associations": {
-    "algorithm": "cpp"
-  }
-}
